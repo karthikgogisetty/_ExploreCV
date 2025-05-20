@@ -1,4 +1,4 @@
-# 📸 ADR-TaskPhase-openCV
+# 📸 Exploring OpenCV
 
 ## 🧠 Introduction
 
