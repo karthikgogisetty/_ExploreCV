@@ -71,12 +71,13 @@ This repository showcases a structured journey into computer vision using **Open
 
 | Task                     | Example Output                     |
 |--------------------------|-------------------------------------|
-| Grayscale Conversion     | ![BW](https://user-images.githubusercontent.com/69350191/91662700-b7d67000-eb01-11ea-8e74-bee3503e9fd0.PNG) |
-| Drawing Shapes           | ![LINE](https://user-images.githubusercontent.com/69350191/91662706-c6248c00-eb01-11ea-9a61-2285000fbfbe.PNG) |
-| Image Blending           | ![Blend](https://user-images.githubusercontent.com/69350191/91645451-c6ba1580-ea62-11ea-8724-9c8bbc1b4467.PNG) |
-| Adaptive Thresholding    | ![adaptive](https://user-images.githubusercontent.com/69350191/91645554-9d4db980-ea63-11ea-9dc4-d77e3a805671.PNG) |
-| Canny Edge Detection     | ![canny](https://user-images.githubusercontent.com/69350191/91746495-4a4a4280-ebda-11ea-9c59-4520c09bae76.png) |
-| Motion Detection         | ![motion](https://user-images.githubusercontent.com/69350191/91861267-3e1dbe00-ec8a-11ea-928d-c566b1d9e213.png) |
+| Grayscale Conversion     | <img src="https://user-images.githubusercontent.com/69350191/91662700-b7d67000-eb01-11ea-8e74-bee3503e9fd0.PNG" width="300"/> |
+| Drawing Shapes           | <img src="https://user-images.githubusercontent.com/69350191/91662706-c6248c00-eb01-11ea-9a61-2285000fbfbe.PNG" width="300"/> |
+| Image Blending           | <img src="https://user-images.githubusercontent.com/69350191/91645451-c6ba1580-ea62-11ea-8724-9c8bbc1b4467.PNG" width="300"/> |
+| Adaptive Thresholding    | <img src="https://user-images.githubusercontent.com/69350191/91645554-9d4db980-ea63-11ea-9dc4-d77e3a805671.PNG" width="300"/> |
+| Canny Edge Detection     | <img src="https://user-images.githubusercontent.com/69350191/91746495-4a4a4280-ebda-11ea-9c59-4520c09bae76.png" width="300"/> |
+| Motion Detection         | <img src="https://user-images.githubusercontent.com/69350191/91861267-3e1dbe00-ec8a-11ea-928d-c566b1d9e213.png" width="300"/> |
+``
 
 ---
 
